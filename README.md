@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CONTRACTORS one-word domains still available to buy.
 
-This dataset contains 4,250 .CONTRACTORS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,334 .CONTRACTORS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CONTRACTORS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=contractors-oneword-domains&utm_content=description.top) (4,205) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.CONTRACTORS one word 
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/contractors-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/contractors-oneword-domains/blob/main/contractors.csv"><b>⬇️ CSV (4.25K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/contractors-oneword-domains/blob/main/contractors.json"><b>⬇️ JSON (4.25K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/contractors-oneword-domains/blob/main/contractors.csv"><b>⬇️ CSV (4.33K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/contractors-oneword-domains/blob/main/contractors.json"><b>⬇️ JSON (4.33K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=contractors-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.21K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -43,6 +43,7 @@ If you want to search & filters the complete database of [.CONTRACTORS one word 
 | abhorrent.contractors  | available | 54       | 1%     | 9      |           |         |         |
 | abiding.contractors    | available | 106      | 5%     | 7      |           |         |         |
 | abient.contractors     | available | 54       | 1%     | 6      |           |         |         |
+| abit.contractors       | available | 66       | 16%    | 5      |           |         |         |
 | abject.contractors     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.contractors     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.contractors  | available | 78       | 1%     | 9      |           |         |         |
@@ -50,12 +51,11 @@ If you want to search & filters the complete database of [.CONTRACTORS one word 
 | abkhazian.contractors  | available | 78       | 1%     | 9      |           |         |         |
 | ablated.contractors    | available | 52       | 2%     | 7      |           |         |         |
 | ablative.contractors   | available | 68       | 3%     | 8      |           |         |         |
-| ablaze.contractors     | available | 72       | 6%     | 6      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/contractors-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/contractors-oneword-domains/blob/main/contractors.csv"><b>⬇️ CSV (4.25K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/contractors-oneword-domains/blob/main/contractors.json"><b>⬇️ JSON (4.25K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/contractors-oneword-domains/blob/main/contractors.csv"><b>⬇️ CSV (4.33K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/contractors-oneword-domains/blob/main/contractors.json"><b>⬇️ JSON (4.33K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=contractors-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.21K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
