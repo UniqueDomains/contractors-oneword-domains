@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CONTRACTORS one-word domains still available to buy.
 
-This dataset contains 4,767 .CONTRACTORS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,764 .CONTRACTORS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CONTRACTORS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=contractors-oneword-domains&utm_content=description.top) (4,765) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,15 +13,15 @@ If you want to search & filters the complete database of [.CONTRACTORS one word 
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/contractors-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/contractors-oneword-domains/blob/main/contractors.csv"><b>⬇️ CSV (4.77K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/contractors-oneword-domains/blob/main/contractors.json"><b>⬇️ JSON (4.77K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/contractors-oneword-domains/blob/main/contractors.csv"><b>⬇️ CSV (4.76K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/contractors-oneword-domains/blob/main/contractors.json"><b>⬇️ JSON (4.76K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=contractors-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.77K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain                 | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.contractors        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.contractors        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.contractors      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.contractors  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.contractors      | available | 43       | 2%     | 5      |           |         |         |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.CONTRACTORS one word 
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/contractors-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/contractors-oneword-domains/blob/main/contractors.csv"><b>⬇️ CSV (4.77K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/contractors-oneword-domains/blob/main/contractors.json"><b>⬇️ JSON (4.77K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/contractors-oneword-domains/blob/main/contractors.csv"><b>⬇️ CSV (4.76K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/contractors-oneword-domains/blob/main/contractors.json"><b>⬇️ JSON (4.76K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=contractors-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.77K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
