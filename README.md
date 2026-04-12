@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .contractors one-word domains from
 
 **Public extract:** 9,578 rows · **Live catalog:** 9,578 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/contractors`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| clear.contractors  | available | $9.99     | $45.99        | 90             | 50     | 5      | name.com                   |
-| domain.contractors | resell    | —         | —             | 80             | 64     | 6      | Porkbun LLC                |
-| ace.contractors    | premium   | $82.50    | $82.50        | 88             | 57     | 3      | name.com                   |
-| real.contractors   | available | $39.98    | —             | 78             | 49     | 4      | namecheap                  |
-| power.contractors  | resell    | —         | —             | 98             | 62     | 5      | NameSilo, LLC              |
-| art.contractors    | premium   | $85.80    | $85.80        | 90             | 52     | 3      | namecheap                  |
-| true.contractors   | available | $9.99     | $45.99        | 86             | 48     | 4      | name.com                   |
-| shop.contractors   | resell    | —         | —             | 78             | 54     | 4      | Wild West Domains, LLC     |
-| one.contractors    | premium   | $42.90    | $42.90        | 132            | 51     | 3      | namecheap                  |
-| genius.contractors | available | $9.99     | $45.99        | 98             | 47     | 6      | name.com                   |
-| link.contractors   | resell    | —         | —             | 68             | 53     | 4      | GoDaddy.com, LLC           |
-| life.contractors   | premium   | $85.80    | $85.80        | 84             | 50     | 4      | namecheap                  |
-| wizard.contractors | available | $9.99     | $45.99        | 118            | 46     | 6      | name.com                   |
-| tech.contractors   | resell    | —         | —             | 104            | 50     | 4      | GoDaddy.com, LLC           |
-| travel.contractors | premium   | $128.70   | $128.70       | 115            | 48     | 6      | namecheap                  |
-| snap.contractors   | available | $9.99     | $45.99        | 90             | 46     | 4      | name.com                   |
-| yes.contractors    | resell    | —         | —             | 132            | 46     | 3      | Porkbun LLC                |
-| all.contractors    | premium   | $250      | $250          | 88             | 48     | 3      | name.com                   |
-| forge.contractors  | available | $9.99     | $45.99        | 62             | 45     | 5      | name.com                   |
-| token.contractors  | resell    | —         | —             | 82             | 46     | 5      | Squarespace Domains II LLC |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| clear.contractors   | available | $9.99     | $45.99        | 90             | 49     | 5      | name.com                   |
+| domain.contractors  | resell    | —         | —             | 80             | 64     | 6      | Porkbun LLC                |
+| ace.contractors     | premium   | $82.50    | $82.50        | 88             | 57     | 3      | name.com                   |
+| real.contractors    | available | $39.98    | —             | 78             | 49     | 4      | namecheap                  |
+| power.contractors   | resell    | —         | —             | 98             | 62     | 5      | NameSilo, LLC              |
+| art.contractors     | premium   | $85.80    | $85.80        | 90             | 52     | 3      | namecheap                  |
+| true.contractors    | available | $9.99     | $45.99        | 86             | 48     | 4      | name.com                   |
+| shop.contractors    | resell    | —         | —             | 78             | 54     | 4      | Wild West Domains, LLC     |
+| one.contractors     | premium   | $42.90    | $42.90        | 132            | 50     | 3      | namecheap                  |
+| snap.contractors    | available | $9.99     | $45.99        | 90             | 46     | 4      | name.com                   |
+| link.contractors    | resell    | —         | —             | 68             | 53     | 4      | GoDaddy.com, LLC           |
+| life.contractors    | premium   | $85.80    | $85.80        | 84             | 50     | 4      | namecheap                  |
+| genius.contractors  | available | $9.99     | $45.99        | 98             | 45     | 6      | name.com                   |
+| tech.contractors    | resell    | —         | —             | 104            | 50     | 4      | GoDaddy.com, LLC           |
+| travel.contractors  | premium   | $128.70   | $128.70       | 115            | 48     | 6      | namecheap                  |
+| creator.contractors | available | $9.99     | $45.99        | 70             | 45     | 7      | name.com                   |
+| yes.contractors     | resell    | —         | —             | 132            | 46     | 3      | Porkbun LLC                |
+| all.contractors     | premium   | $250      | $250          | 88             | 48     | 3      | name.com                   |
+| forge.contractors   | available | $9.99     | $45.99        | 62             | 45     | 5      | name.com                   |
+| token.contractors   | resell    | —         | —             | 82             | 46     | 5      | Squarespace Domains II LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
