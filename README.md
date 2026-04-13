@@ -82,7 +82,7 @@ print(df.head())
 | creator.contractors | available | $9.99     | $45.99        | 70             | 45     | 7      | name.com                   |
 | yes.contractors     | resell    | —         | —             | 132            | 46     | 3      | Porkbun LLC                |
 | all.contractors     | premium   | $250      | $250          | 88             | 48     | 3      | name.com                   |
-| forge.contractors   | available | $9.99     | $45.99        | 62             | 45     | 5      | name.com                   |
+| event.contractors   | available | $39.98    | —             | 96             | 44     | 5      | namecheap                  |
 | token.contractors   | resell    | —         | —             | 82             | 46     | 5      | Squarespace Domains II LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
