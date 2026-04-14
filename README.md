@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .contractors one-word domains from
 
 **Public extract:** 9,578 rows · **Live catalog:** 9,578 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/contractors`  
 **Best for:** founders, investors, studios
 
@@ -67,10 +67,10 @@ print(df.head())
 | clear.contractors   | available | $9.99     | $45.99        | 90             | 49     | 5      | name.com                   |
 | domain.contractors  | resell    | —         | —             | 80             | 64     | 6      | Porkbun LLC                |
 | ace.contractors     | premium   | $82.50    | $82.50        | 88             | 57     | 3      | name.com                   |
-| real.contractors    | available | $39.98    | —             | 78             | 49     | 4      | namecheap                  |
+| true.contractors    | available | $9.99     | $45.99        | 86             | 48     | 4      | name.com                   |
 | power.contractors   | resell    | —         | —             | 98             | 62     | 5      | NameSilo, LLC              |
 | art.contractors     | premium   | $85.80    | $85.80        | 90             | 52     | 3      | namecheap                  |
-| true.contractors    | available | $9.99     | $45.99        | 86             | 48     | 4      | name.com                   |
+| real.contractors    | available | $39.98    | —             | 78             | 48     | 4      | namecheap                  |
 | shop.contractors    | resell    | —         | —             | 78             | 54     | 4      | Wild West Domains, LLC     |
 | one.contractors     | premium   | $42.90    | $42.90        | 132            | 50     | 3      | namecheap                  |
 | snap.contractors    | available | $9.99     | $45.99        | 90             | 46     | 4      | name.com                   |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
