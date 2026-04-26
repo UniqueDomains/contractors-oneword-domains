@@ -1,22 +1,22 @@
-# Available .CONTRACTORS One-Word Domains (9,578)
+# Available .CONTRACTORS One-Word Domains (11,914)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C578%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C578%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C914%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .contractors one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .contractors one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,914 domains** on the canonical page below.
 
-**Public extract:** 9,578 rows · **Live catalog:** 9,578 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,914 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/contractors`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CONTRACTORS one-word 
 
 ### Files
 
-- `contractors.csv` — public CSV extract (9,578 rows)
-- `contractors.json` — public JSON extract (9,578 rows)
+- `contractors.csv` — public CSV extract (1,000 rows)
+- `contractors.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| clear.contractors   | available | $9.99     | $45.99        | 90             | 49     | 5      | name.com                   |
-| domain.contractors  | resell    | —         | —             | 80             | 64     | 6      | Porkbun LLC                |
-| ace.contractors     | premium   | $82.50    | $82.50        | 88             | 57     | 3      | name.com                   |
-| true.contractors    | available | $9.99     | $45.99        | 86             | 48     | 4      | name.com                   |
-| power.contractors   | resell    | —         | —             | 98             | 62     | 5      | NameSilo, LLC              |
-| art.contractors     | premium   | $85.80    | $85.80        | 90             | 52     | 3      | namecheap                  |
-| real.contractors    | available | $39.98    | —             | 78             | 48     | 4      | namecheap                  |
-| shop.contractors    | resell    | —         | —             | 78             | 54     | 4      | Wild West Domains, LLC     |
-| one.contractors     | premium   | $42.90    | $42.90        | 132            | 50     | 3      | namecheap                  |
-| snap.contractors    | available | $9.99     | $45.99        | 90             | 46     | 4      | name.com                   |
-| link.contractors    | resell    | —         | —             | 68             | 53     | 4      | GoDaddy.com, LLC           |
-| life.contractors    | premium   | $85.80    | $85.80        | 84             | 50     | 4      | namecheap                  |
-| genius.contractors  | available | $9.99     | $45.99        | 98             | 45     | 6      | name.com                   |
-| tech.contractors    | resell    | —         | —             | 104            | 50     | 4      | GoDaddy.com, LLC           |
-| travel.contractors  | premium   | $128.70   | $128.70       | 115            | 48     | 6      | namecheap                  |
-| creator.contractors | available | $9.99     | $45.99        | 70             | 45     | 7      | name.com                   |
-| yes.contractors     | resell    | —         | —             | 132            | 46     | 3      | Porkbun LLC                |
-| all.contractors     | premium   | $250      | $250          | 88             | 48     | 3      | name.com                   |
-| event.contractors   | available | $39.98    | —             | 96             | 44     | 5      | namecheap                  |
-| token.contractors   | resell    | —         | —             | 82             | 46     | 5      | Squarespace Domains II LLC |
+| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| Books.contractors      | available | $39.98    | —             | 52             | 49     | 5      | namecheap        |
+| solarpower.contractors | resell    | —         | —             | 84             | 15     | 11     | GoDaddy.com, LLC |
+| events.contractors     | premium   | $123.75   | —             | 68             | 37     | 6      | name.com         |
+| robots.contractors     | available | $9.99     | —             | 62             | 47     | 6      | name.com         |
+| partners.contractors   | premium   | $123.75   | —             | 61             | 32     | 8      | name.com         |
+| coins.contractors      | available | $9.99     | —             | 56             | 41     | 5      | name.com         |
+| Jim.contractors        | premium   | $92.40    | $92.40        | 78             | 28     | 3      | namecheap        |
+| matcha.contractors     | available | $9.99     | —             | 86             | 39     | 6      | name.com         |
+| forms.contractors      | premium   | $123.75   | —             | 54             | 28     | 5      | name.com         |
+| justin.contractors     | available | $9.99     | —             | 58             | 38     | 7      | name.com         |
+| photos.contractors     | premium   | $82.50    | —             | 54             | 28     | 6      | name.com         |
+| stories.contractors    | available | $9.99     | —             | 58             | 36     | 7      | name.com         |
+| pages.contractors      | premium   | $82.50    | —             | 52             | 28     | 5      | name.com         |
+| aliens.contractors     | available | $9.99     | —             | 56             | 35     | 6      | name.com         |
+| has.contractors        | premium   | $82.50    | —             | 60             | 26     | 3      | name.com         |
+| Cats.contractors       | available | $39.98    | —             | 59             | 33     | 4      | namecheap        |
+| LongBeach.contractors  | premium   | $280      | $280          | 62             | 11     | 10     | namecheap        |
+| teams.contractors      | available | $9.99     | —             | 62             | 32     | 5      | name.com         |
+| roofs.contractors      | premium   | $82.50    | —             | 50             | 11     | 5      | name.com         |
+| videos.contractors     | available | $9.99     | —             | 52             | 30     | 6      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,578-row public sample | 9,578 live domains                               |
+| 1,000-row public sample | 11,914 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
