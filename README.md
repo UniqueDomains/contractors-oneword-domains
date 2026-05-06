@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .contractors one-word domai
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,533 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,533 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,533 domains · **Median ask:** $14.04 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/contractors`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Books.contractors         | available | $39.98    | —             | 52             | 49     | 5      | namecheap        |
-| solarpower.contractors    | resell    | —         | —             | 84             | 15     | 11     | GoDaddy.com, LLC |
-| partners.contractors      | premium   | $123.75   | —             | 61             | 32     | 8      | name.com         |
-| robots.contractors        | available | $9.99     | —             | 62             | 47     | 6      | name.com         |
-| Jim.contractors           | premium   | $92.40    | $92.40        | 78             | 28     | 3      | namecheap        |
-| matcha.contractors        | available | $9.99     | —             | 86             | 39     | 6      | name.com         |
-| forms.contractors         | premium   | $123.75   | —             | 54             | 28     | 5      | name.com         |
-| prompts.contractors       | available | $9.99     | —             | 54             | 39     | 7      | name.com         |
-| photos.contractors        | premium   | $82.50    | —             | 54             | 28     | 6      | name.com         |
-| stories.contractors       | available | $9.99     | —             | 58             | 36     | 7      | name.com         |
-| pages.contractors         | premium   | $82.50    | —             | 52             | 28     | 5      | name.com         |
-| aliens.contractors        | available | $9.99     | —             | 56             | 35     | 6      | name.com         |
-| has.contractors           | premium   | $82.50    | —             | 60             | 26     | 3      | name.com         |
-| Cats.contractors          | available | $39.98    | —             | 59             | 33     | 4      | namecheap        |
-| LongBeach.contractors     | premium   | $280      | $280          | 62             | 11     | 10     | namecheap        |
-| teams.contractors         | available | $9.99     | —             | 62             | 32     | 5      | name.com         |
-| roofs.contractors         | premium   | $82.50    | —             | 50             | 11     | 5      | name.com         |
-| videos.contractors        | available | $9.99     | —             | 52             | 30     | 6      | name.com         |
-| VirginiaBeach.contractors | premium   | $280      | $280          | 58             | 9      | 14     | namecheap        |
-| heroes.contractors        | available | $9.99     | —             | 68             | 29     | 6      | name.com         |
+| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| Acup.contractors       | available | $39.98    | —             | 80             | 5      | 5      | namecheap        |
+| finals.contractors     | available | $9.99     | —             | 80             | 7      | 6      | name.com         |
+| jewels.contractors     | available | $9.99     | —             | 80             | 15     | 6      | name.com         |
+| ladies.contractors     | available | $9.99     | —             | 80             | 17     | 6      | name.com         |
+| matcha.contractors     | available | $9.99     | —             | 86             | 39     | 6      | name.com         |
+| useit.contractors      | available | $9.99     | —             | 94             | 7      | 6      | name.com         |
+| edamame.contractors    | available | $9.99     | —             | 80             | 9      | 7      | name.com         |
+| gearup.contractors     | available | $9.99     | —             | 80             | 16     | 7      | name.com         |
+| playin.contractors     | available | $9.99     | —             | 80             | 10     | 7      | name.com         |
+| makeit.contractors     | available | $9.99     | —             | 82             | 22     | 7      | name.com         |
+| stirup.contractors     | available | $9.99     | —             | 82             | 3      | 7      | name.com         |
+| leaveon.contractors    | available | $9.99     | —             | 80             | 1      | 8      | name.com         |
+| Books.contractors      | available | $39.98    | —             | 52             | 49     | 5      | namecheap        |
+| solarpower.contractors | resell    | —         | —             | 84             | 15     | 11     | GoDaddy.com, LLC |
+| partners.contractors   | premium   | $123.75   | —             | 61             | 32     | 8      | name.com         |
+| robots.contractors     | available | $9.99     | —             | 62             | 47     | 6      | name.com         |
+| Jim.contractors        | premium   | $92.40    | $92.40        | 78             | 28     | 3      | namecheap        |
+| forms.contractors      | premium   | $123.75   | —             | 54             | 28     | 5      | name.com         |
+| prompts.contractors    | available | $9.99     | —             | 54             | 39     | 7      | name.com         |
+| photos.contractors     | premium   | $82.50    | —             | 54             | 28     | 6      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,533 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,533 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is made up entirely of one-word .contractors domains. The words range from direct commercial terms to broader dictionary words such as Acup.contractors, Trex.contractors, WiFi.contractors, girls.contractors, and finals.contractors. For founders, the strongest options are words that clearly match a contractor niche, are easy to say, and look credible in a business context. For investors, quality is driven less by novelty and more by buyer relevance within the .contractors extension. With a median ask of 14.04, price may be accessible, but the main test is whether the word and extension form a natural, commercially useful pairing.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Best fits are words that pair naturally with .contractors
+- Median ask is 14.04 across 12,533 listed domains
+- Favor clear, service-relevant, easy-to-spell words
+- Be cautious with words that feel mismatched or unclear
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
