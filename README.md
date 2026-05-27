@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .contractors one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,534 domains · **Median ask:** $14.04 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/contractors`  
 **Best for:** founders, investors, studios
 
@@ -78,7 +78,7 @@ print(df.head())
 | leaveon.contractors    | available | $9.99     | —             | 80             | 1      | 8      | name.com         |
 | Books.contractors      | available | $39.98    | —             | 52             | 49     | 5      | namecheap        |
 | solarpower.contractors | resell    | —         | —             | 84             | 15     | 11     | GoDaddy.com, LLC |
-| partners.contractors   | premium   | $123.75   | —             | 61             | 32     | 8      | name.com         |
+| partners.contractors   | premium   | $123.75   | —             | 61             | 31     | 8      | name.com         |
 | robots.contractors     | available | $9.99     | —             | 62             | 47     | 6      | name.com         |
 | Jim.contractors        | premium   | $92.40    | $92.40        | 78             | 28     | 3      | namecheap        |
 | forms.contractors      | premium   | $123.75   | —             | 54             | 28     | 5      | name.com         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
