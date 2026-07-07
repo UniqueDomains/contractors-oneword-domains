@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .contractors one-word domai
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,534 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,534 domains · **Median ask:** $14.04 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,534 domains · **Median ask:** $15.11 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/contractors`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/contractors`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CONTRACTORS one-word 
 
 ### Files
 
-- `contractors.csv` — public CSV extract (1,000 rows)
-- `contractors.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `contractors.csv`, public CSV extract (1,000 rows)
+- `contractors.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Acup.contractors       | available | $39.98    | —             | 80             | 5      | 5      | namecheap        |
-| finals.contractors     | available | $9.99     | —             | 80             | 7      | 6      | name.com         |
-| jewels.contractors     | available | $9.99     | —             | 80             | 15     | 6      | name.com         |
-| ladies.contractors     | available | $9.99     | —             | 80             | 17     | 6      | name.com         |
-| matcha.contractors     | available | $9.99     | —             | 86             | 39     | 6      | name.com         |
-| useit.contractors      | available | $9.99     | —             | 94             | 7      | 6      | name.com         |
-| edamame.contractors    | available | $9.99     | —             | 80             | 9      | 7      | name.com         |
-| gearup.contractors     | available | $9.99     | —             | 80             | 16     | 7      | name.com         |
-| playin.contractors     | available | $9.99     | —             | 80             | 10     | 7      | name.com         |
-| makeit.contractors     | available | $9.99     | —             | 82             | 21     | 7      | name.com         |
-| stirup.contractors     | available | $9.99     | —             | 82             | 3      | 7      | name.com         |
-| leaveon.contractors    | available | $9.99     | —             | 80             | 1      | 8      | name.com         |
-| Books.contractors      | available | $39.98    | —             | 52             | 49     | 5      | namecheap        |
-| solarpower.contractors | resell    | —         | —             | 84             | 15     | 11     | GoDaddy.com, LLC |
-| partners.contractors   | premium   | $123.75   | —             | 61             | 31     | 8      | name.com         |
-| robots.contractors     | available | $9.99     | —             | 62             | 47     | 6      | name.com         |
-| Jim.contractors        | premium   | $92.40    | $92.40        | 78             | 28     | 3      | namecheap        |
-| forms.contractors      | premium   | $123.75   | —             | 54             | 28     | 5      | name.com         |
-| prompts.contractors    | available | $9.99     | —             | 54             | 39     | 7      | name.com         |
-| photos.contractors     | premium   | $82.50    | —             | 54             | 28     | 6      | name.com         |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| ana.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com      |
+| yes.contractors     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC   |
+| act.contractors     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo      |
+| icu.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com      |
+| america.contractors | resell    | —         | —             | high           | low    | 7      | NameSilo, LLC |
+| and.contractors     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo      |
+| NYT.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com      |
+| apt.contractors     | premium   | $123.75   | —             | high           | low    | 3      | name.com      |
+| suv.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com      |
+| awe.contractors     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo      |
+| UML.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com      |
+| cry.contractors     | premium   | $82.50    | —             | high           | low    | 3      | name.com      |
+| back.contractors    | available | $9.99     | —             | high           | low    | 4      | name.com      |
+| dog.contractors     | premium   | $123.75   | —             | high           | low    | 3      | name.com      |
+| bare.contractors    | available | $9.99     | —             | medium         | low    | 4      | name.com      |
+| eve.contractors     | premium   | $82.50    | —             | high           | medium | 3      | name.com      |
+| bars.contractors    | available | $9.99     | —             | high           | low    | 4      | name.com      |
+| flu.contractors     | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo      |
+| bird.contractors    | available | $9.99     | —             | high           | medium | 4      | name.com      |
+| for.contractors     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up entirely of one-word .contractors domains. The words range from direct commercial terms to broader dictionary words such as Acup.contractors, Trex.contractors, WiFi.contractors, girls.contractors, and finals.contractors. For founders, the strongest options are words that clearly match a contractor niche, are easy to say, and look credible in a business context. For investors, quality is driven less by novelty and more by buyer relevance within the .contractors extension. With a median ask of 14.04, price may be accessible, but the main test is whether the word and extension form a natural, commercially useful pairing.
+This set covers 12,534 one-word domain names under the .contractors extension, with a median ask near $15. The names range from everyday words to compound phrases—such as becalled, cometrue, surebet, and butterflies—paired with a service-oriented TLD that signals trade and contractor businesses. Because .contractors is a lesser-used extension, pricing stays close to registration cost, making it straightforward to compare options on brandability, spelling, and renewal before choosing a name to build on.
 
-- Best fits are words that pair naturally with .contractors
-- Median ask is 14.04 across 12,533 listed domains
-- Favor clear, service-relevant, easy-to-spell words
-- Be cautious with words that feel mismatched or unclear
+- 12,534 one-word .contractors domains available now
+- Median ask near $15 — pricing close to registration cost
+- Short, brandable terms like surebet, ladies, and presents
+- Compare spelling, length, and renewal before you choose
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
