@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .contractors one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,615 domains · **Median ask:** $13.85 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/contractors`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,8 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| yes.contractors     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC   |
-| brief.contractors   | available | $9.99     | $45.99        | high           | low    | 5      | name.com      |
 | ana.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com      |
+| yes.contractors     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC   |
 | act.contractors     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo      |
 | icu.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com      |
 | america.contractors | resell    | —         | —             | high           | low    | 7      | NameSilo, LLC |
@@ -84,6 +83,7 @@ print(df.head())
 | alar.contractors    | available | $9.99     | $45.99        | low            | low    | 4      | name.com      |
 | eve.contractors     | premium   | $82.50    | —             | high           | medium | 3      | name.com      |
 | alto.contractors    | available | $9.99     | $45.99        | low            | low    | 4      | name.com      |
+| flu.contractors     | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
