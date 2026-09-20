@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .contractors one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,389 domains · **Median ask:** $19.92 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/contractors`
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,6 @@ print(df.head())
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
 | yes.contractors     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC   |
-| brief.contractors   | available | $9.99     | $45.99        | high           | low    | 5      | name.com      |
 | ana.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com      |
 | act.contractors     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo      |
 | icu.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com      |
@@ -73,17 +72,18 @@ print(df.head())
 | and.contractors     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo      |
 | ilx.contractors     | available | $9.99     | $45.99        | low            | low    | 3      | name.com      |
 | apt.contractors     | premium   | $123.75   | —             | high           | low    | 3      | name.com      |
-| NYT.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com      |
+| nyt.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com      |
 | ass.contractors     | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo      |
 | suv.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com      |
 | awe.contractors     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo      |
-| UML.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com      |
+| uml.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com      |
 | cry.contractors     | premium   | $82.50    | —             | high           | low    | 3      | name.com      |
 | xlv.contractors     | available | $9.99     | $45.99        | low            | low    | 3      | name.com      |
 | dog.contractors     | premium   | $123.75   | —             | high           | low    | 3      | name.com      |
 | alar.contractors    | available | $9.99     | $45.99        | low            | low    | 4      | name.com      |
 | eve.contractors     | premium   | $82.50    | —             | high           | medium | 3      | name.com      |
 | alto.contractors    | available | $9.99     | $45.99        | low            | low    | 4      | name.com      |
+| flu.contractors     | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
