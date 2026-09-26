@@ -1,10 +1,10 @@
-# Available .CONTRACTORS One-Word Domains (13,884)
+# Available .CONTRACTORS One-Word Domains (23,049)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C884%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C049%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .contractors one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **13,884 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,049 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 13,884 domains · **Median ask:** $19.14 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 23,049 domains · **Median ask:** $27.03 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/contractors`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| ana.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| arab.contractors    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| act.contractors     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| icu.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| america.contractors | resell    | —         | —             | high           | low    | 7      | NameSilo, LLC    |
-| ale.contractors     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
-| ilx.contractors     | available | $9.99     | $45.99        | medium         | low    | 3      | name.com         |
-| and.contractors     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
-| ixl.contractors     | available | $9.99     | $45.99        | medium         | low    | 3      | name.com         |
-| ass.contractors     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| nan.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| awe.contractors     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| nyt.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| bud.contractors     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| suv.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| con.contractors     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
-| tks.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| cow.contractors     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| uml.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| cry.contractors     | premium   | $82.50    | —             | high           | low    | 3      | name.com         |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| aas.contractors     | available | $35.49    | $35.49        | high           | low    | 3      | namesilo                                    |
+| detox.contractors   | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC                                |
+| fly.contractors     | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                                   |
+| cao.contractors     | available | $36.98    | $39.98        | high           | low    | 3      | namecheap                                   |
+| kitchen.contractors | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                            |
+| gym.contractors     | premium   | $123.75   | —             | high           | low    | 3      | name.com                                    |
+| cnn.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com                                    |
+| virtual.contractors | resell    | —         | —             | high           | low    | 7      | GoDaddy Online Services Cayman Islands Ltd. |
+| hum.contractors     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                    |
+| dai.contractors     | available | $35.49    | $35.49        | high           | low    | 3      | namesilo                                    |
+| hut.contractors     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
+| jra.contractors     | available | $35.49    | $35.49        | medium         | low    | 3      | namesilo                                    |
+| inc.contractors     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
+| jut.contractors     | available | $9.99     | $45.99        | medium         | low    | 3      | name.com                                    |
+| law.contractors     | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                   |
+| spf.contractors     | available | $35.49    | $35.49        | high           | low    | 3      | namesilo                                    |
+| nap.contractors     | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                                   |
+| uml.contractors     | available | $9.99     | —             | high           | low    | 3      | name.com                                    |
+| oft.contractors     | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                                   |
+| aave.contractors    | available | $35.49    | $35.49        | medium         | low    | 4      | namesilo                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 13,884 live domains                        |
+| 1,000-row public sample | 23,049 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONTRACTORS One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
